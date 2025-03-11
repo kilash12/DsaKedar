@@ -1,0 +1,176 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "reverseLL",
+            "request": "launch",
+            "mainClass": "reverseLL",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "LLfirst",
+            "request": "launch",
+            "mainClass": "LLfirst",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "LLinsert",
+            "request": "launch",
+            "mainClass": "LLinsert",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "longestSubarray",
+            "request": "launch",
+            "mainClass": "longestSubarray",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "moveZeros",
+            "request": "launch",
+            "mainClass": "moveZeros",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "leftRoatedAreay",
+            "request": "launch",
+            "mainClass": "leftRoatedAreay",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "listmethodimplement",
+            "request": "launch",
+            "mainClass": "listmethodimplement",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "collectionframworkdemo",
+            "request": "launch",
+            "mainClass": "collectionframworkdemo",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "Customexample",
+            "request": "launch",
+            "mainClass": "Customexample",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "RestoringstringA",
+            "request": "launch",
+            "mainClass": "RestoringstringA",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "RestoringStringA",
+            "request": "launch",
+            "mainClass": "RestoringStringA",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "Subset",
+            "request": "launch",
+            "mainClass": "Subset",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "skacii",
+            "request": "launch",
+            "mainClass": "skacii",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "stringexample",
+            "request": "launch",
+            "mainClass": "stringexample",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "mergeSort",
+            "request": "launch",
+            "mainClass": "mergeSort",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "patternbdg",
+            "request": "launch",
+            "mainClass": "patternbdg",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "binarySearching",
+            "request": "launch",
+            "mainClass": "binarySearching",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "reverserecursion",
+            "request": "launch",
+            "mainClass": "reverserecursion",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "fact",
+            "request": "launch",
+            "mainClass": "recursion.fact",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "number",
+            "request": "launch",
+            "mainClass": "recursion.number",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "StringupertolowerCase",
+            "request": "launch",
+            "mainClass": "StringupertolowerCase",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "hashmapexample",
+            "request": "launch",
+            "mainClass": "hashmapexample",
+            "projectName": "dsakedar_786f80fb"
+        },
+        {
+            "type": "java",
+            "name": "secondlargestElement",
+            "request": "launch",
+            "mainClass": "secondlargestElement",
+            "projectName": "dsakedar_786f80fb"
+        }
+    ]
+}
